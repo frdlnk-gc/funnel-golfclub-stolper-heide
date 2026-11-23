@@ -1,0 +1,160 @@
+{
+ "firma": "Berliner Golfclub Stolper Heide",
+ "firma_genitiv": "des Berliner Golfclubs Stolper Heide",
+ "stelle": "Assistent des Head-Greenkeepers (m/w/d)",
+ "ort": "Hohen Neuendorf",
+ "plz": "16540",
+ "branche": "galabau",
+ "stelle_id": 1508,
+ "farbe_primary": "#3E4D33",
+ "farbe_secondary": "#1D1D1B",
+ "region_badge": "Hohen Neuendorf & Umgebung",
+ "benefit_top": "Bis zu 3.800 € pro Monat",
+ "benefits": [
+  "Bis zu 3.800 € pro Monat",
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Krisensicherer Arbeitsplatz",
+  "Abwechslungsreiche Aufgaben mit Verantwortung für Mensch, Natur und Maschine",
+  "Kostenfreie Mitgliedschaft im Golfclub",
+  "Ein eingespieltes, engagiertes Greenkeeping-Team"
+ ],
+ "aufgaben": [
+  "Du unterstützt den Head-Greenkeeper bei Arbeitsorganisation, Dokumentation, Bewässerung und dem Einsatz von Bodenhilfsstoffen",
+  "Du pflegst regelmäßig Fairways, Grüns und Abschläge",
+  "Du steuerst und kontrollierst das Bewässerungssystem und übernimmst nötige Reparaturen",
+  "Du arbeitest eng mit dem Greenkeeping-Team zusammen – auf 190 Hektar Golfanlage, überwiegend draußen an der frischen Luft"
+ ],
+ "anforderung": "Eine DEULA-geprüfte Ausbildung als Greenkeeper oder langjährige praktische Erfahrung auf einer Golfanlage. Du kannst die relevanten Maschinen bedienen und hast schon Beregnungsanlagen bedient und repariert. Du bist körperlich belastbar und bereit zu Mehrarbeit im Sommer sowie an Wochenenden und Feiertagen. Führerschein und ein Fahrzeug für den Weg zur Arbeit bringst du mit.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Greenkeeping / Golfanlage",
+   "icon": "⛳",
+   "qualifikationen": [
+    {
+     "label": "Geprüfter Greenkeeper (DEULA)",
+     "icon": "🎓"
+    },
+    {
+     "label": "Head-Greenkeeper / Fachagrarwirt",
+     "icon": "🏅"
+    },
+    {
+     "label": "Langjährige Praxis auf dem Platz",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Garten- & Landschaftsbau / Gärtner",
+   "icon": "🌿",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landwirtschaft / Sportplatzpflege",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, mit eigenem Fahrzeug",
+   "icon": "🚗"
+  },
+  {
+   "label": "Ja, aber ohne eigenes Fahrzeug",
+   "icon": "🚌"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "36",
+    "label": "Loch"
+   },
+   {
+    "zahl": "190 ha",
+    "label": "Golfanlage"
+   },
+   {
+    "zahl": "1.900",
+    "label": "Mitglieder"
+   },
+   {
+    "zahl": "1995",
+    "label": "gegründet"
+   }
+  ],
+  "text": "Der Berliner Golfclub Stolper Heide ist eine 36-Loch-Golfanlage direkt an der nördlichen Stadtgrenze von Berlin – Motto „sportlich – freundlich – nah“. Die Betreibergesellschaft Deutsche Golf Management präsentiert den 1.900 Mitgliedern und Gästen stets einen herausragenden Platzzustand, den auch die beiden Mannschaften in der 1. Bundesliga zu schätzen wissen. Der Hauptgrund für diesen guten Ruf: das eingespielte und engagierte Team."
+ },
+ "kunde_tab": "70 Golfclub Stolper Heide",
+ "quelle": "https://golfclub-stolper-heide.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Hohen Neuendorf (16540)"
+ },
+ "hero_bild": "img/hero-luftbild-loch.jpg",
+ "bilder": [
+  "img/f-spindelmaeher.jpg",
+  "img/f-gruensmaeher.jpg",
+  "img/f-aerifizieren.jpg",
+  "img/f-luftbild-anlage.jpg",
+  "img/f-fahne-herbst.jpg",
+  "img/f-teich-sommer.jpg",
+  "img/f-clubhaus-fairway.jpg",
+  "img/f-radlader-winter.jpg",
+  "img/f-teich-herbst.jpg"
+ ],
+ "meta_geo": [
+  "Am Golfplatz 1, 16540 Hohen Neuendorf"
+ ]
+}
